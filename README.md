@@ -1,2 +1,3 @@
 # rsschool-cv
-# Igor Yanushkevich
+https://IharY.github.io/rsschool-cv/cv
+
