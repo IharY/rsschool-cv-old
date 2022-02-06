@@ -1,18 +1,15 @@
 # Igor Yanushkevich
 
 ## Summary
-
 I'am a student of IT speciality, with a Front-End Developer skills. Сurrently I'm continuosly expanding my knowledge in this area.
 
 ## Contacts
-
 * Phone: +375(29)1166404
 * E-mail: igor.yanushkevich@gmail.com
 * GitHub: IharY
 * Skype: i.yanush
 
 ## Skill points
-
 * Hard skills
   + HTML, CSS
   + JavaScript (Fundamental)
@@ -24,7 +21,6 @@ I'am a student of IT speciality, with a Front-End Developer skills. Сurrently I
   + strong desire to learn
 
 ## Code Example
-
 ```
 function fact(x) {
        if(x == 0) {
@@ -41,15 +37,12 @@ function fact(x) {
 ```
 
 ## Experience
-
 * Front-End Developer at RS School Dec-2021 - Present
   + Project - https://app.rs.school/
 
 ## Education
-
 * Student of Belarusian State University of Informatics and Radioelectronics
   + speciality - software for Information Technologies
 
 ## Languages
-
 * English - Upper intermediate
