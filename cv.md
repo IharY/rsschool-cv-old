@@ -5,9 +5,9 @@ I'am a student of IT speciality, with a Front-End Developer skills. Сurrently I
 
 ## Contacts
 * Phone: +375(29)1166404
-* E-mail: igor.yanushkevich@gmail.com
-* GitHub: IharY
-* Skype: i.yanush
+* E-mail: [igor.yanushkevich@gmail.com](igor.yanushkevich@gmail.com)
+* GitHub: [IharY](https://github.com/IharY)
+* Skype: [i.yanush](https://skype:i.yanush)
 
 ## Skill points
 * Hard skills
