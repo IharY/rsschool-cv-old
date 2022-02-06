@@ -39,5 +39,5 @@ function fact(x) {
 * Student of Belarusian State University of Informatics and Radioelectronics
   + speciality - software for Information Technologies
 
-
-
+## Languages
+* English - Upper intermediate
